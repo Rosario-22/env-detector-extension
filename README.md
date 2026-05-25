@@ -17,15 +17,6 @@ Cuando abrís una página, la extensión lee la URL y muestra visualmente en qu�
 | Staging | `stage.` | 🟡 Amarillo |
 | Producción | ninguno | 🟢 Verde |
 
----
-
-## Capturas
-
-> Badge en staging:
-
-![Badge staging](https://i.imgur.com/placeholder.png)
-
----
 
 ## Instalación
 
