@@ -94,9 +94,3 @@ Probada en **Opera** y **Chrome** (Manifest V3).
 ## Versionado
 
 Este proyecto sigue [Semantic Versioning](https://semver.org/lang/es/): `MAJOR.MINOR.PATCH`
-
----
-
-## Autora
-
-Desarrollada por Rosario Lopez — Subsecretaría de Innovación y Transformación Digital, Córdoba.
